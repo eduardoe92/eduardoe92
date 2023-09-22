@@ -9,7 +9,7 @@ I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️.
 
 <!-- Iconos de redes sociales -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoe92/)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)](eduardoe92.github.io/EduardoEliasChacon/)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://eduardoe92.github.io/EduardoEliasChacon/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo.e)
 
 <!-- Tecnologías y herramientas -->

@@ -36,7 +36,8 @@ I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️.
 <!-- Estadísticas de GitHub -->
 ### Estadísticas de GitHub:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eduardoe92&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eduardoe92&show_icons=true&theme=gotham)
+
 
 <!-- Proyectos Destacados 
 ### Proyectos Destacados:

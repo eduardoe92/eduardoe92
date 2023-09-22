@@ -1,11 +1,10 @@
+<!-- Imagen de fondo -->
+![Fondo Neon](https://e1.pxfuel.com/desktop-wallpaper/827/995/desktop-wallpaper-3840x1080-dual-screen-dual-monitor.jpg))
 
 <!-- Encabezado -->
 # Hello Everyone! 👋
 
-I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️.
-
-<!-- Imagen de fondo 
-![Fondo Neon](https://www.xtrafondos.com/wallpapers/universo-abstracto-luces-neon-4423.jpg))-->
+I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️
 
 <!-- Iconos de redes sociales -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoe92/)

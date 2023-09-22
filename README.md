@@ -1,5 +1,5 @@
 <!-- Imagen de fondo -->
-![Fondo Neon](https://e1.pxfuel.com/desktop-wallpaper/827/995/desktop-wallpaper-3840x1080-dual-screen-dual-monitor.jpg))
+![Fondo Neon](https://e1.pxfuel.com/desktop-wallpaper/827/995/desktop-wallpaper-3840x1080-dual-screen-dual-monitor.jpg)
 
 <!-- Encabezado -->
 # Hello Everyone! 👋

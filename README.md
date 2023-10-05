@@ -4,7 +4,7 @@
 <!-- Encabezado -->
 # Hello Everyone! 👋
 
-I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️
+### I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️
 
 <!-- Iconos de redes sociales -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoe92/)
@@ -12,7 +12,7 @@ I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo.e)
 
 <!-- Tecnologías y herramientas -->
-### Tecnologías y Herramientas:
+## ▲ Technologies and Tools:
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=red)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,16 +33,21 @@ I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <!-- Estadísticas de GitHub -->
-### Estadísticas de GitHub:
+## ▲ GitHub Statistics:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eduardoe92&show_icons=true&theme=gotham)
 
 
-<!-- Proyectos Destacados 
-### Proyectos Destacados:
+## ▲ Featured Projects:
 
-- [Proyecto 1](https://github.com/tuusuario/proyecto1): Una breve descripción del proyecto 1.
-- [Proyecto 2](https://github.com/tuusuario/proyecto2): Una breve descripción del proyecto 2.-->
+### Pokedex
+Este es un proyecto de Pokedex que te permite explorar y conocer a todos los Pokémon que existen. 
+
+- Accede al repositorio: [Repositorio](https://github.com/eduardoe92/Pokedex)
+- Accede al sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app/pokedex)
+
+
+<!-- - [Proyecto 2](https://github.com/tuusuario/proyecto2): Una breve descripción del proyecto 2.-->
 
 <!-- Contribuciones recientes 
 ### Contribuciones Recientes:

@@ -44,7 +44,7 @@
 Este es un proyecto de Pokedex que te permite explorar y conocer a todos los Pokémon que existen. 
 
 - Accede al repositorio: [Repositorio](https://github.com/eduardoe92/Pokedex)
-- Accede al sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app/pokedex)
+- Accede al sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app)
 
 
 <!-- - [Proyecto 2](https://github.com/tuusuario/proyecto2): Una breve descripción del proyecto 2.-->

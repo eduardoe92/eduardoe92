@@ -41,7 +41,7 @@
 ## ▲ Featured Projects:
 
 ### Pokedex
-Este es un proyecto de Pokedex que te permite explorar y conocer a todos los Pokémon que existen. 
+Este es un proyecto de Pokedex que te permite explorar y conocer a todos los Pokémon que existen mediante la API de Pokemon. 
 
 - Accede al repositorio: [Repositorio](https://github.com/eduardoe92/Pokedex)
 - Accede al sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app)

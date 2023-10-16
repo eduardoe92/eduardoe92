@@ -37,7 +37,7 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eduardoe92&show_icons=true&theme=gotham)
 
-
+<!-- Proyectos -->
 ## ▲ Featured Projects:
 
 ### Pokedex
@@ -46,11 +46,14 @@ Este es un proyecto de Pokedex que te permite explorar y conocer a todos los Pok
 - Accede al repositorio: [Repositorio](https://github.com/eduardoe92/Pokedex)
 - Accede al sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app)
 
+### Rick And Morty
+Ejercicio Practico, Api Rick & Morty. 
 
-<!-- - [Proyecto 2](https://github.com/tuusuario/proyecto2): Una breve descripción del proyecto 2.-->
+- Accede al repositorio: [Repositorio](https://github.com/eduardoe92/ApiRickAndMorty)
+- Accede al sitio web: [RickAndMorty](https://rickandmorty-seven-virid.vercel.app/)
 
-<!-- Contribuciones recientes 
-### Contribuciones Recientes:
+### Makisan Tech
+Landing Page para la empresa Makisan Tech, diseñada en equipo, tecnologías HTML, CSS, JavaScript.
 
-- [Contribución 1](https://github.com/tuusuario/repo1/pull/1): Descripción de la contribución 1.
-- [Contribución 2](https://github.com/tuusuario/repo2/pull/2): Descripción de la contribución 2.-->
+- Accede al repositorio: [Repositorio](https://github.com/eduardoe92/web-makisan-tech)
+- Accede al sitio web: [MakisanTech](https://jonathansansok.github.io/web-makisan-tech/)

@@ -55,19 +55,19 @@ Es una Librería realizada con el lenguaje de programación de Java, diseñada p
 - Accede al repositorio: [Repositorio](https://github.com/eduardoe92/LibraryProject)
 
 ### Makisan Tech
-Landing Page para la empresa Makisan Tech, diseñada en equipo, tecnologías HTML, CSS, JavaScript.
+Landing Page para la empresa Makisan Tech, diseñada en equipo, tecnologías aplicadas: HTML, CSS, JavaScript.
 
 - Accede al repositorio: [Repositorio](https://github.com/eduardoe92/web-makisan-tech)
 - Accede al sitio web: [MakisanTech](https://jonathansansok.github.io/web-makisan-tech/)
 
 ### Pokedex
-Este es un proyecto de Pokedex que te permite explorar y conocer a todos los Pokémon que existen mediante la API de Pokemon. 
+Este es un proyecto de Pokedex que te permite explorar y conocer a todos los Pokémon que existen mediante la API de Pokemon, tecnología aplicada: React.
 
 - Accede al repositorio: [Repositorio](https://github.com/eduardoe92/Pokedex)
 - Accede al sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app)
 
 ### Rick And Morty
-Ejercicio Practico, Api Rick & Morty. 
+Ejercicio Practico, Api Rick & Morty, tecnología aplicada: React.
 
 - Accede al repositorio: [Repositorio](https://github.com/eduardoe92/ApiRickAndMorty)
 - Accede al sitio web: [RickAndMorty](https://rickandmorty-seven-virid.vercel.app/)

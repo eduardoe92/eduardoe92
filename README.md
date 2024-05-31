@@ -11,7 +11,6 @@
 ## ▲ My Social Networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoe92/)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white&color=purple)](https://eduardoeliaschacon-portfolio.vercel.app/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-%231DB7C7.svg?style=for-the-badge&logo=fiverr&logoColor=white&color=green)](https://es.fiverr.com/eduedeveloper/craft-engaging-websites-for-business)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo.e)
 
 

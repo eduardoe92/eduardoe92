@@ -48,6 +48,11 @@
 <!-- Proyectos -->
 ## ▲ Featured Projects:
 
+###Flowento
+Es una app Mobile First para administrar eventos de manera eficiente. Asegurar la viabilidad técnica y comercial del proyecto, generando impacto y crecimiento en lashabilidades de los desarrolladores.
+
+- Accede al repositorio: [Repositorio](https://github.com/igrowker/i002-flowento-front)
+
 ### Library
 Es una Librería realizada con el lenguaje de programación de Java, diseñada para gestionar una biblioteca digital, permitiendo a los usuarios registrar, actualizar y gestionar sus libros, autores y cuentas de usuario.
 

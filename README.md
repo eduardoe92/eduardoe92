@@ -48,7 +48,7 @@
 <!-- Proyectos -->
 ## ▲ Featured Projects:
 
-###Flowento
+### Flowento
 Flowento es una web app mobile-first creada para el Hub de Empresas de Valencia. Centraliza y automatiza la gestión de eventos, resolviendo problemas de procesos manuales, inscripciones por correo y control de asistencia. Utiliza tecnologías como React, Node.js, PostgreSQL, Tailwind-CSS y CSS. Flowento facilita la creación, difusión, inscripción y seguimiento de eventos, proporcionando métricas en tiempo real y verificación de asistencia, mejorando la eficiencia y rentabilidad de los eventos.
 
 - Accede al repositorio: [![Repositorio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoe92/Flowento-App-Front)

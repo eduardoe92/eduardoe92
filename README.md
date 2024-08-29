@@ -49,29 +49,26 @@
 ## ▲ Featured Projects:
 
 ###Flowento
-Es una app Mobile First para administrar eventos de manera eficiente. Asegurar la viabilidad técnica y comercial del proyecto, generando impacto y crecimiento en lashabilidades de los desarrolladores.
+Flowento es una web app mobile-first creada para el Hub de Empresas de Valencia. Centraliza y automatiza la gestión de eventos, resolviendo problemas de procesos manuales, inscripciones por correo y control de asistencia. Utiliza tecnologías como React, Node.js, PostgreSQL, Tailwind-CSS y CSS. Flowento facilita la creación, difusión, inscripción y seguimiento de eventos, proporcionando métricas en tiempo real y verificación de asistencia, mejorando la eficiencia y rentabilidad de los eventos.
 
-- Accede al repositorio: [Repositorio](https://github.com/igrowker/i002-flowento-front)
+- Accede al repositorio: [![Repositorio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoe92/Flowento-App-Front)
+- Accede al sitio web: [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white&color=purple)](https://flowento-app.vercel.app/)
 
 ### Library
-Es una Librería realizada con el lenguaje de programación de Java, diseñada para gestionar una biblioteca digital, permitiendo a los usuarios registrar, actualizar y gestionar sus libros, autores y cuentas de usuario.
+El proyecto Biblioteca es una aplicación para gestionar una biblioteca digital. Permite a los usuarios registrar, actualizar y gestionar libros, autores y cuentas de usuario. Incluye características como registro de usuarios, gestión de libros y autores, seguridad de contraseñas, control de sesiones y roles de usuario. Utiliza Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, Maven, HTML y Bootstrap para ofrecer una plataforma segura y funcional.
 
-- Accede al repositorio: [Repositorio](https://github.com/eduardoe92/LibraryProject)
+- Accede al repositorio: [![Repositorio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoe92/LibraryProject)
 
-### Makisan Tech
-Landing Page para la empresa Makisan Tech, diseñada en equipo, tecnologías aplicadas: HTML, CSS, JavaScript.
+### Frontend Mentor Challenges
+El repositorio Frontend Mentor Challenges se dedica a recrear los diferentes desafíos de la plataforma Frontend Mentor. Su objetivo principal es mejorar las habilidades de desarrollo front-end al abordar proyectos de diseño del mundo real. Cada desafío se encuentra implementado en Vercel. Para obtener más información sobre cada desafío, consulte el correspondiente Readme. Las tecnologías utilizadas incluyen HTML, CSS, JavaScript, React, entre otras.
 
-- Accede al repositorio: [Repositorio](https://github.com/eduardoe92/web-makisan-tech)
-- Accede al sitio web: [MakisanTech](https://jonathansansok.github.io/web-makisan-tech/)
+- Accede al repositorio: [![Repositorio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoe92/Challenge)
+- Accede al sitio web: [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white&color=purple)](https://eduardoe92.github.io/Challenge/)
 
-### Pokedex
-Este es un proyecto de Pokedex que te permite explorar y conocer a todos los Pokémon que existen mediante la API de Pokemon, tecnología aplicada: React.
+### Landing Page - Caroline Sada
+El Proyecto de Digital Nao consistió en la creación de una Landing Page para 'Caroline Seda', profesional en Administración y Dirección de Empresas. Se emplearon tecnologías HTML, Bootstrap, Java Script y CSS para su desarrollo, garantizando una presentación elegante y funcional. El sitio web resalta las habilidades y servicios ofrecidos por la licenciada, permitiendo a los visitantes obtener una impresión clara y profesional de sus capacidades.
 
-- Accede al repositorio: [Repositorio](https://github.com/eduardoe92/Pokedex)
-- Accede al sitio web: [Pokedex](https://pokedex-gpymiced6-eduardoe92.vercel.app)
+- Accede al repositorio: [![Repositorio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoe92/CarolineSada)
+- Accede al sitio web: [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white&color=purple)](https://eduardoe92.github.io/CarolineSada/)
 
-### Rick And Morty
-Ejercicio Practico, Api Rick & Morty, tecnología aplicada: React.
 
-- Accede al repositorio: [Repositorio](https://github.com/eduardoe92/ApiRickAndMorty)
-- Accede al sitio web: [RickAndMorty](https://rickandmorty-seven-virid.vercel.app/)

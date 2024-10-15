@@ -56,7 +56,7 @@
 ## ▲ Featured Projects:
 
 ### Bariló
-Bariló es una innovadora webapp mobile-first diseñada para transformar la experiencia de los viajes de egresados en Argentina, haciéndolos accesibles y personalizados para todos los estudiantes, sin importar su situación económica. Las empresas de viajes suelen ofrecer paquetes estandarizados, limitando la personalización y accesibilidad. Esta falta de alternativas adecuadas intensifica las desigualdades, resaltando la urgente necesidad de soluciones inclusivas.
+Bariló es una innovadora Web-App Mobile-First diseñada para transformar la experiencia de los viajes de egresados en Argentina, haciéndolos accesibles y personalizados para todos los estudiantes, sin importar su situación económica. Las empresas de viajes suelen ofrecer paquetes estandarizados, limitando la personalización y accesibilidad. Esta falta de alternativas adecuadas intensifica las desigualdades, resaltando la urgente necesidad de soluciones inclusivas.
 
 - Accede al repositorio FrontEnd: <a href="https://github.com/eduardoe92/Barilo-App-Front">
   <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40"/>
@@ -71,7 +71,7 @@ Bariló es una innovadora webapp mobile-first diseñada para transformar la expe
 </a>
 
 ### Flowento
-Flowento es una web app mobile-first creada para el Hub de Empresas de Valencia. Centraliza y automatiza la gestión de eventos, resolviendo problemas de procesos manuales, inscripciones por correo y control de asistencia. Utiliza tecnologías como React, Node.js, PostgreSQL, Tailwind-CSS y CSS. Flowento facilita la creación, difusión, inscripción y seguimiento de eventos, proporcionando métricas en tiempo real y verificación de asistencia, mejorando la eficiencia y rentabilidad de los eventos.
+Flowento es una Web-App Mobile-First creada para el Hub de Empresas de Valencia. Centraliza y automatiza la gestión de eventos, resolviendo problemas de procesos manuales, inscripciones por correo y control de asistencia. Utiliza tecnologías como React, Node.js, PostgreSQL, Tailwind-CSS y CSS. Flowento facilita la creación, difusión, inscripción y seguimiento de eventos, proporcionando métricas en tiempo real y verificación de asistencia, mejorando la eficiencia y rentabilidad de los eventos.
 
 - Accede al repositorio FrontEnd: <a href="https://github.com/eduardoe92/Flowento-App-Front">
   <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40"/>

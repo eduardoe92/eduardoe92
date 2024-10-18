@@ -1,12 +1,9 @@
 <!-- Imagen de fondo -->
 ![Fondo Neon](https://e1.pxfuel.com/desktop-wallpaper/827/995/desktop-wallpaper-3840x1080-dual-screen-dual-monitor.jpg)
 
-<!-- Encabezado -->
 # Hello Everyone! 👋
 
 ### I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️
-
-<!-- Iconos de redes sociales -->
 
 ## ▲ My Social Networks:
 
@@ -20,7 +17,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/>
 </a>
 
-<!-- Tecnologías y herramientas -->
 ## ▲ Technologies and Tools:
 
 <p>
@@ -47,12 +43,10 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-HFqQNkv8HSRD_1cOqdnfUqTN8uIVrYwOmJl5NM7my1tl1I3FwsL04wQlDyPu35tYaNc&usqp=CAU" width="35" height="35"/>
 </p>
 
-<!-- Estadísticas de GitHub -->
 ## ▲ GitHub Statistics:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eduardoe92&show_icons=true&theme=gotham)
 
-<!-- Proyectos -->
 ## ▲ Featured Projects:
 
 ### Bariló

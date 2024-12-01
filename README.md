@@ -96,14 +96,3 @@ El repositorio Frontend Mentor Challenges se dedica a recrear los diferentes des
 - Accede al sitio web: <a href="https://eduardoe92.github.io/Challenge/">
   <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/>
 </a>
-
-### Landing Page - Caroline Sada
-El Proyecto de Digital Nao consistió en la creación de una Landing Page para 'Caroline Seda', profesional en Administración y Dirección de Empresas. Se emplearon tecnologías HTML, Bootstrap, Java Script y CSS para su desarrollo, garantizando una presentación elegante y funcional. El sitio web resalta las habilidades y servicios ofrecidos por la licenciada, permitiendo a los visitantes obtener una impresión clara y profesional de sus capacidades.
-
-- Accede al repositorio: <a href="https://github.com/eduardoe92/CarolineSada">
-  <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40"/>
-</a>
-
-- Accede al sitio web: <a href="https://eduardoe92.github.io/CarolineSada/">
-  <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/>
-</a>

@@ -7,15 +7,9 @@
 
 ## ▲ My Social Networks:
 
-<a href="https://www.linkedin.com/in/eduardoe92/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-<a href="https://eduardoeliaschacon-portfolio.vercel.app/">
-  <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/>
-</a>
-<a href="https://www.instagram.com/eduardo.e">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/>
-</a>
+| LinkedIn | Portfolio | Instagram |
+|:--------------------------------------------------------------------:|:------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| <a href="https://www.linkedin.com/in/eduardoe92/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> | <a href="https://eduardoeliaschacon-portfolio.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a> | <a href="https://www.instagram.com/eduardo.e"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/></a> |
 
 ## ▲ Technologies and Tools:
 

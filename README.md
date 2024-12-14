@@ -43,6 +43,13 @@
 
 ## ▲ Featured Projects:
 
+### Mindup
+Es una plataforma innovadora desarrollada con un enfoque Mobile-First que revoluciona la forma en que los pacientes encuentran a su psicólogo ideal. Diseñada para conectar a las personas con profesionales que realmente se ajusten a sus necesidades, Mindup utiliza un cuestionario inicial y perfiles enriquecidos con fotos, videos y descripciones humanas para facilitar relaciones terapéuticas más duraderas. Construida con tecnologías como Java Spring Boot, PostgreSQL, MongoDB y una arquitectura basada en microservicios, Mindup no solo gestiona citas y usuarios, sino que también integra un sistema de chat en tiempo real para asistencia de emergencia. La plataforma prioriza la accesibilidad, personalización y escalabilidad para impactar positivamente en el bienestar mental.
+
+| Accede al Repositorio FrontEnd | Accede al Repositorio Backend | Accede al Sitio Web |
+|:--------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:------------------------------------------------:|
+| <a href="https://github.com/eduardoe92/MindUp-Frontend"><img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40"/></a> | <a href="https://github.com/eduardoe92/MindUp-Backend"><img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40"/></a> | <a href="https://mindup-app.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a> |
+
 ### Bariló
 Bariló es una innovadora Web-App Mobile-First diseñada para transformar la experiencia de los viajes de egresados en Argentina, haciéndolos accesibles y personalizados para todos los estudiantes, sin importar su situación económica. Las empresas de viajes suelen ofrecer paquetes estandarizados, limitando la personalización y accesibilidad. Esta falta de alternativas adecuadas intensifica las desigualdades, resaltando la urgente necesidad de soluciones inclusivas.
 

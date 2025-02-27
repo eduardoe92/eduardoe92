@@ -5,15 +5,11 @@
 
 ### I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️
 
----
-
 ## ▲ My Social Networks:
 
 | LinkedIn | Portfolio | Instagram |
 |:--------------------------------------------------------------------:|:------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
 | <a href="https://www.linkedin.com/in/eduardoe92/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> | <a href="https://eduardoeliaschacon-portfolio.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a> | <a href="https://www.instagram.com/eduardo.e"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/></a> |
-
----
 
 ## ▲ Technologies and Tools:
 
@@ -29,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" height="40"/>
-
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -44,13 +38,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-HFqQNkv8HSRD_1cOqdnfUqTN8uIVrYwOmJl5NM7my1tl1I3FwsL04wQlDyPu35tYaNc&usqp=CAU" width="35" height="35"/>
 </p>
 
----
-
 ## ▲ GitHub Statistics:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eduardoe92&show_icons=true&theme=gotham)
-
----
 
 ## ▲ Featured Projects:
 

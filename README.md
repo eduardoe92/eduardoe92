@@ -3,7 +3,7 @@
 
 # Hello Everyone! 👋
 
-### I'm Eduardo Elías Chacón, Web Developer from Argentina 🖥️
+### I'm Eduardo Elías Chacón, Full Stack Web Developer from Argentina 🖥️
 
 ## ▲ My Social Networks:
 

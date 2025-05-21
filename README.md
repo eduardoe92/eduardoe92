@@ -3,7 +3,13 @@
 
 # Hello Everyone! 👋
 
-### I'm Eduardo Elías Chacón, Full Stack Web Developer from Argentina 🖥️
+I'm **Eduardo Elías Chacón**, a **Full Stack Web Developer** based in Argentina.
+
+Passionate about **technology**, **web development**, and building **creative solutions** that make a difference 💡  
+
+I love turning ideas into functional, user-friendly, and elegant digital experiences.  
+
+Always learning, always coding — and always ready for the next challenge 🚀
 
 ## ▲ My Social Networks:
 
